@@ -1,0 +1,5 @@
+Microsoft VS Code/
+.vscode/
+AGENTS.md
+__pycache__/
+*.py[cod]
